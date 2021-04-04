@@ -1,0 +1,86 @@
+html{
+    background-color: rgb(255, 255, 255);
+}
+
+.container{
+    width: 100%;
+    margin-top: 35px;
+}
+
+.text__sup{
+    text-align: center;
+}
+
+.text__sup h1{
+    font-size: 20px;
+    font-family: 'Comfortaa', cursive;
+}
+
+.text__sup h2{ 
+    font-size: 35px;
+    margin-top: -20px;
+    font-family: 'Comfortaa', cursive;
+}
+
+.row{ 
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.col-33{
+width: 30%;
+margin: 20px;
+height: 300px;
+background-image: url(https://www.picclickimg.com/d/l400/pict/163877645286_/Mazzo-di-carte-Art-of-Cardistry-Playing-Cards.jpg);
+background-size: 100%;
+background-position: center;
+border-radius: 10px 10px 0px 0px;
+
+}
+
+.col-33-2{
+    background-image: url(https://www.picclickimg.com/d/l400/pict/163997795760_/Cardistry-Touch-Origin-Playing-Cards-Sealed.jpg);
+    background-size: 100%;
+    background-position: center;
+}
+
+.col-33-3{
+    background-image: url(https://images.unsplash.com/photo-1562766879-ce73e9394f94?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FyZGlzdHJ5fGVufDB8fDB8&ixlib=rb-1.2.1&w=1000&q=80);
+    background-size: 100%;
+    background-position: center;
+}
+.sub1{
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 87%;
+    
+}
+
+.sub1:hover{
+   color: red;
+   transition: 1s;
+   cursor: pointer;
+}
+
+.sub2{
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    font-size: 10px;
+    width: 100%;
+    margin-top: -25px;
+    box-sizing: border-box;
+    
+}
+
+.sub3{
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    width: 100%;
+    margin-top: -20px;
+    box-sizing: border-box;
+    color: rgb(204, 66, 51);
+}
